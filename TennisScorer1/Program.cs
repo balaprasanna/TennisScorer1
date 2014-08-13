@@ -23,7 +23,7 @@ namespace TennisScorer1
         static void DisplayScore(int a, int b)
         {
            
-            Console.WriteLine("Test");
+            Console.WriteLine("Hello");
         }
     }
 }
